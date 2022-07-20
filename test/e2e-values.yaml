@@ -1,0 +1,7 @@
+extraArgs:
+  - --debug
+
+imagePullPolicy: IfNotPresent
+
+orchestrator:
+  topologyPassword: password1
